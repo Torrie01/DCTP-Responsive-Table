@@ -1,0 +1,31 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+th, td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+}
+tr:nth-child(even) {
+    background-color:rgb(218, 245, 236);
+}
+div {
+    text-align: center;
+    margin-top: 20px;
+}
+.github-button {
+    background-color: #4b4a4a;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+}
